@@ -1,0 +1,18 @@
+body {
+  min-height: 2000px;
+  padding-top: 50px;
+}
+
+.navbar-right > li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.navbar-default {
+	background-color: #005aa5;
+	color: ffffff;
+}
+
+.navbar-fixed-top {
+	background-color: #e3e3e3;
+}
